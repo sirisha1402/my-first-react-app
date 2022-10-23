@@ -1,0 +1,113 @@
+.support{
+    height: 450px;
+}
+
+.brands{
+    height: 150px;
+}
+
+.div1{
+    height: 400px;
+    background-color: #dc6226;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.div2{
+    height: 400px;
+    background-color: #4a4442;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.marked-list li:before {
+    content: '\f013';
+    position: absolute;
+    left: 0;
+    top: 4px;
+    font: 400 14px 'FontAwesome';
+    line-height: inherit;
+    color: #fff;
+}
+
+.white{
+    color: white;
+}
+
+.support_head{
+    text-transform: uppercase;
+    font-size: 34px;
+    padding-top: 34px;
+    padding-left: 30px;
+    margin-bottom: 25px;
+}
+
+
+
+.cap_head{
+    font-size: 30px;
+    text-align: center;
+    color:#dc6226;
+    font-weight: bold;
+}
+
+.cap_para{
+    text-align: center;
+    font-size: 14px;
+    color: grey;
+    margin-top: 5px;
+}
+
+.para_head{
+    font-size: 21px;
+    padding: 20px;
+    text-align: center;
+    color: grey;
+    margin-bottom: 40px;
+    font-family: sans-serif;
+}
+
+.support_para{
+    font-size: 17px;
+    line-height: 1.2;
+    color: rgb(255, 255, 255);
+    margin-bottom: 20px;
+}
+
+.support_para2{
+    font-size: 17px;
+    line-height: 1.2;
+    color: rgb(133, 133, 133);
+    margin-bottom: 20px;
+}
+
+.support_para:hover{
+    color: black;
+}
+.support_para2:hover{
+    color: #dc6226;
+}
+
+
+.learn-more{
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    border: 1px solid rgb(255, 255, 255);
+    padding: 7px;
+    margin-left: 34px;
+}
+
+.learn-more:hover{
+   color: #000000;
+   border-color: #ffffff;
+   background-color: white;
+}
+
+.brand-list{
+    display: flex;
+    justify-content: space-between;
+}

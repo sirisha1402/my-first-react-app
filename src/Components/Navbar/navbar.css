@@ -1,0 +1,72 @@
+@import url(//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css);
+
+
+.navbg{
+    background: url("https://livedemo00.template-help.com/wt_55458/images/pattern-light-gray.jpg") 100% 100% repeat-x;
+}
+
+.row{
+    height: 120px;
+}
+
+.logo{
+    background-color:  #dc6226;
+}
+
+.head{
+    font-size: 34px;
+    margin-bottom: 0;
+    color: white;
+    font-weight: 700;
+}
+
+.sub-head{
+    font-size: 11px;
+    color: white;
+    font-weight: bold;
+}
+
+.nav-link{
+    font-size: 14px;
+    color: white;
+    font-weight: 500;
+    margin: 12px;
+}
+
+.dropdown-menu{
+    background-color: #504a4a;
+    border-radius: 0;
+}
+
+.drop-link{
+    font-size: 14px;
+    color: rgb(255, 255, 255);
+}
+
+.dropdown-item:hover{
+    font-weight: 500;
+    color: white;
+    background-color: #504a4a;
+}
+
+.nav-link:hover{
+    color:  #dc6226;
+}
+
+.inline-list{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+li{
+    list-style: none;  
+}
+.fa{
+    font-size: 26px;
+    color: rgba(255, 255, 255, 0.3);
+}
+
+.fa:hover{
+    color:  #dc6226;
+    opacity: 1;
+}

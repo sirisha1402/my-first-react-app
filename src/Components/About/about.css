@@ -1,0 +1,52 @@
+.icon-content img{
+    width: 60px;
+    height: 60px;
+    background-color:  #dc6226;
+    padding: 15px;
+    border-radius: 50%;
+}
+
+.icon-content img:hover{
+  
+    background-color: rgb(72, 64, 64);
+}
+
+.about_head{
+    text-transform: uppercase;
+    font-size: 34px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.sub_head{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 16px;
+    padding: 12px;
+}
+
+.para{
+    font-size: 13px;
+    text-align: center;
+    font-family: fantasy;
+    color: grey;
+    margin-bottom: 30px;
+}
+
+.read-more{
+    text-decoration: none;
+    font-weight: bold;
+    color: grey;
+    /* border: 1px solid; */
+    border: 1px solid grey;
+    padding: 7px;
+}
+
+.read-more:hover{
+   color: #dc6226;
+   border-color: #dc6226;
+}
+
+.well{
+    height: 460px;
+}
